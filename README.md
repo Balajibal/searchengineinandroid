@@ -21,8 +21,8 @@ Step 6: Display screen of search engine in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/* Program to print the text “display screen of any search engine”.
-Developed by: Balaji 
+/* Program to print the text “display screen of any search engine”.<br></br>
+Developed by: Balaji <br></br>
 Registeration Number : 212220230006 */
 
 ## activity_main.xml
